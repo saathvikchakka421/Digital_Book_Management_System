@@ -25,5 +25,3 @@ This project was built to practice core software development concepts like modul
 
 ---
 
-## Project Structure
-
